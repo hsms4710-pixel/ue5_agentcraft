@@ -1,0 +1,17 @@
+{
+  "style": "medieval",
+  "catalog": {
+    "blacksmith": {
+      "asset_path": "/Game/Medieval/Meshes/SM_Blacksmith",
+      "offset_z": 0
+    },
+    "house_small": {
+      "asset_path": "/Game/Medieval/Meshes/SM_House_Small",
+      "offset_z": 0
+    },
+    "watchtower": {
+      "asset_path": "/Game/Medieval/Meshes/SM_Watchtower",
+      "offset_z": -50
+    }
+  }
+}
